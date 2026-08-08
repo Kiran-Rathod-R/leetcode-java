@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
@@ -17,5 +18,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
