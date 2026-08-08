@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
