@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -59,4 +60,8 @@
 | ------- |
 | [0136-single-number](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0137-single-number-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
