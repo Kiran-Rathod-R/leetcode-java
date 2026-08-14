@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0027-remove-element) |
+| [0137-single-number-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
