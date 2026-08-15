@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0162-find-peak-element) |
@@ -32,6 +33,7 @@
 | [0016-3sum-closest](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -42,6 +44,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -64,4 +67,12 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0162-find-peak-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
