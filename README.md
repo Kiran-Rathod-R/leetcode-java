@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
