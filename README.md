@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0136-single-number) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0162-find-peak-element) |
 ## Quicksort
 |  |
