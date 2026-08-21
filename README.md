@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0137-single-number-ii) |
@@ -41,6 +42,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@
 | [0016-3sum-closest](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
