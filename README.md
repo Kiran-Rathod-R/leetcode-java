@@ -20,6 +20,7 @@
 | [0137-single-number-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
