@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
