@@ -24,6 +24,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0066-plus-one) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
