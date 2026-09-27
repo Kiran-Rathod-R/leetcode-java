@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0162-find-peak-element) |
 ## Quicksort
 |  |
@@ -103,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Kiran-Rathod-R/leetcode-java/tree/master/1672-richest-customer-wealth) |
 ## Simulation
